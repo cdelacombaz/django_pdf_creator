@@ -1,0 +1,9 @@
+.main-container {
+    border: solid 5px green;
+    width: 600px;
+    height: 800px;
+}
+
+.title {
+    color: red;
+}
